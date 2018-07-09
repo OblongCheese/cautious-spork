@@ -2,3 +2,4 @@
 test-data/
 venv/
 .idea/
+.gitignore
